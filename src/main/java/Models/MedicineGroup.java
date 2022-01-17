@@ -1,0 +1,5 @@
+package Models;
+
+public enum MedicineGroup {
+    PRZECIWBÓLOWY, PRZECIWZAPALNY, STERYDOWY, NLPZ, PSYCHOTROPOWY, IMMUNOSUPRESYJNY
+}
